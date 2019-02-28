@@ -4,11 +4,11 @@
 
 ##### 店铺首页、公告页面、购物车页面
 
-![外卖01_商品页11](E:\web前端\2019黑马\饿了么\资料\resource--更多资源q3190343277\resource\外卖01_商品页11.jpg)
+![外卖01_商品页11](https://github.com/yangmiemie1/eleme/blob/master/resource/%E5%A4%96%E5%8D%9601_%E5%95%86%E5%93%81%E9%A1%B511.jpg)
 
 ##### 商品详情页面、店铺评价页面、商家详情页面
 
-![外卖04_商品页面_商品详情111](E:\web前端\2019黑马\饿了么\资料\resource--更多资源q3190343277\resource\外卖04_商品页面_商品详情111.jpg)
+![外卖04_商品页面_商品详情111](https://github.com/yangmiemie1/eleme/blob/master/resource/%E5%A4%96%E5%8D%9604_%E5%95%86%E5%93%81%E9%A1%B5%E9%9D%A2_%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85111.jpg)
 
 
 
